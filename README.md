@@ -2,7 +2,9 @@
 
 This repo contains the analysis scripts for the Google patents public database <https://console.cloud.google.com/marketplace/browse?q=google%20patents%20public%20datasets&filter=solution-type:dataset&_ga=2.249841734.-1360113471.1540898778>.
 
-First study: focus on the specific patent families that have increased most in patent share from 2000 to 2018:
+# Summary stats
+
+focus on the specific patent families that have increased most in patent share from 2000 to 2018:
   * G06 COMPUTING; CALCULATING; COUNTING
   * H04 ELECTRIC COMMUNICATION TECHNIQUE
 
