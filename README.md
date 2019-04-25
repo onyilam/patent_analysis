@@ -1,4 +1,4 @@
-# patent_analysis
+# Patent analysis
 
 This repo contains the analysis scripts for the Google patents public database <https://console.cloud.google.com/marketplace/browse?q=google%20patents%20public%20datasets&filter=solution-type:dataset&_ga=2.249841734.-1360113471.1540898778>.
 
